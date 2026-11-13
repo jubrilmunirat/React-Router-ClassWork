@@ -1,0 +1,22 @@
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
